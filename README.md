@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasklan
-- 👀 I’m interested in NodeJS and SHELL scripts
+- 👀 I’m interested in CLOUD COMPUTER
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
