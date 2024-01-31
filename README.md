@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pasklan
-- 👀 I’m interested in CLOUD COMPUTER
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in RPA
+- 🌱 I’m currently learning Python automation libs
+- 💞️ I’m looking to collaborate on RPA projects
+
 
 <!---
 pasklan/pasklan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
