@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pasklan
-- 👀 I’m interested in RPA
+- 👀 I’m interested in RPA and Python Dev.
 - 🌱 I’m currently learning Python automation libs
 - 💞️ I’m looking to collaborate on RPA projects
 
