@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu GitHub!
+# 👋 Welcome to my GitHub!
 
 ## Intro
 
